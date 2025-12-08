@@ -25,7 +25,7 @@ const Hero = () => {
             something great together!
             </p> 
 
-            <a href='https://drive.google.com/file/d/1H_3P2Vp9DEP5tXfN2yxs9MWTv7u0sT1Y/view?usp=sharing' className='bg-gradient-to-r from-blue-500 to-pink-500 text-white border-black px-4 py-4 rounded-full mt-4'>Download Resume</a>
+            <a href='https://drive.google.com/file/d/1IHA2uwuZI5IKfqNxJacC3NqNL03g42z9/view?usp=sharing' className='bg-gradient-to-r from-blue-500 to-pink-500 text-white border-black px-4 py-4 rounded-full mt-4'>Download Resume</a>
           </motion.div>
 
           <motion.div
